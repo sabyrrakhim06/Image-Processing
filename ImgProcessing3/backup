@@ -1,0 +1,4 @@
+# # Writing seperated channel images as colored images
+# bc,gc,rc = mi.coloredChannels(b,g,r)
+# cv2.imwrite('../output/' + userInput + '_green_colored.png',gc)
+# cv2.imwrite('../output/' + userInput + '_red_colored.png',rc)
